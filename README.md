@@ -55,12 +55,14 @@ Using default security password: ffac019d-d6fd-48ea-98d0-0d5aee225bb8
 
 The following technologies and libraries were used to create the Australia Post API:
 ```bash
+- Java 1.8
 - Spring Boot
 - JPA
 - Spring Security
 - H2
 - Google Guava
 - Gradle
+- Tomcat
 - JUnit
 - Mockito
 - PMD
